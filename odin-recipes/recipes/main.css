@@ -1,0 +1,7 @@
+.img {
+    inline-size: 20%;
+    block-size: auto;
+    display: flex;
+    align-items: center;
+
+}
